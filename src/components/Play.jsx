@@ -35,7 +35,7 @@ function Play() {
     <div ref={parent} className='w-full h-screen overflow-hidden relative bg-zinc-950'>
 
       <div ref={vid} className="w-52 overflow-hidden aspect-video  absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 sm:w-[30vw]">
-        <video autoPlay muted loop className='w-full h-full absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-40' src="./public/playreel.mp4"></video>
+        <video autoPlay muted loop className='w-full h-full absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-40' src="/playreel.mp4"></video>
       </div>
 
       <div className="overlay absolute w-full h-full  text-white flex flex-col justify-between py-20">

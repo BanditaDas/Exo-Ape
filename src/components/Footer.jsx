@@ -42,7 +42,7 @@ function Footer() {
                 </div>
             </div>
             <div className="absolute w-96 -right-12 top-0 sm:w-[75vw] sm:-right-32">
-                <video autoPlay muted loop className='w-full h-full object-cover' src="./public/fotvid.mp4"></video>
+                <video autoPlay muted loop className='w-full h-full object-cover' src="/fotvid.mp4"></video>
             </div>
 
         </div>

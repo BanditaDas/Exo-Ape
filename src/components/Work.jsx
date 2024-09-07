@@ -6,26 +6,26 @@ function Work() {
     {
       heading: "Columbia Pictures",
       subh: "Celebrating a Century of Cinema",
-      img: "../public/img1.webp",
-      vid: "../public/vid1.mp4"
+      img: "/img1.webp",
+      vid: "/vid1.mp4"
     },
     {
       heading: "Cambium",
       subh: "Pioneering Sustainable Solutions",
-      img: "../public/img2.webp",
-      vid: "../public/vid2.mp4"
+      img: "/img2.webp",
+      vid: "/vid2.mp4"
     },
     {
       heading: "Pixelflakes",
       subh: "Architectural marketing agency",
-      img: "../public/img3.webp",
-      vid: "../public/vid3.mp4"
+      img: "/img3.webp",
+      vid: "/vid3.mp4"
     },
     {
       heading: "Studio D",
       subh: "Urban and Landscape Design",
-      img: "../public/img4.webp",
-      vid: "../public/vid4.mp4"
+      img: "/img4.webp",
+      vid: "/vid4.mp4"
     }
   ])
   return (
