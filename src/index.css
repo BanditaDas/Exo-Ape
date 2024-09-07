@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: t300;
+    src: url(/font/TWKLausanne-300.b6399e7.ttf);
+}
+@font-face {
+    font-family: t400;
+    src: url(/font/TWKLausanne-400.b6399e7.ttf);
+}
+@font-face {
+    font-family: t500;
+    src: url(/font/TWKLausanne-500.b6399e7.ttf);
+}
