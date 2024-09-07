@@ -6,7 +6,7 @@ function Landing() {
   return (
     <div className='relative w-full h-[150vh] sm:h-[250vh]'>
       <div className="pic w-full h-full overflow-hidden">
-        <img data-scroll data-scroll-speed="-1" className='w-full h-full object-cover' src="./public/bg.webp" alt="" />
+        <img data-scroll data-scroll-speed="-1" className='w-full h-full object-cover' src="../public/bg.webp" alt="" />
       </div>
       <div className="w-full absolute top-0">
         <div className=" h-full text max-w-screen-2xl mx-auto px-5 sm:px-20 text-white">

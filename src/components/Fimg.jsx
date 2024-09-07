@@ -47,7 +47,7 @@ function Fimg() {
                 <div ref={third} className="absolute w-[8.5rem] h-[5.5rem] -left-32 top-52 sm:w-[25rem] sm:h-[17rem] sm:-left-[25vw] sm:top-[40vw]">
                 <img className='w-full h-full object-cover' src="./public/f4.webp" alt="" />
                 </div>
-                <div ref={forth} className="absolute  bg-red-500 aspect-video w-[8.5rem] h-[9rem] -right-[32vw] top-52 sm:w-[25rem] sm:h-[30rem] sm:-right-[27vw] sm:top-[45vw]">
+                <div ref={forth} className="absolute aspect-video w-[8.5rem] h-[9rem] -right-[32vw] top-52 sm:w-[25rem] sm:h-[30rem] sm:-right-[27vw] sm:top-[45vw]">
                     <video autoPlay muted loop className='w-full h-full object-cover' src="./public/f5.mp4"></video>
                 </div>
                 <img className='w-full h-full object-cover' src="./public/f1.webp" alt="" />
